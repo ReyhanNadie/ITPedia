@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ITPedia</string>
+    Judul
+    Pengertian dan Sejarah Komputer
+    Komponen Komputer
+    Jenis Komputer
+    Quiz
+    <string name="sejarah">
+        <p>Komputer adalah perangkat elektronik yang dapat memproses data secara cepat dan efisien. Komputer modern terdiri dari beberapa komponen penting, seperti prosesor, memori, hard disk, monitor, dan lain-lain. Dalam materi ini, akan dijelaskan mengenai pengertian dan sejarah komputer.</p>
+        <p>Pengertian Komputer Komputer adalah suatu alat elektronik yang dapat memproses data dengan cepat dan efisien. Komputer modern terdiri dari beberapa komponen utama seperti CPU (Central Processing Unit), memori, dan input/output devices seperti monitor, keyboard, dan mouse. Komputer dapat digunakan untuk berbagai macam keperluan seperti pengolahan data, perhitungan, pengolahan gambar, pengolahan suara, dan lain-lain.</p>
+        <p>Sejarah Komputer Sejarah komputer dimulai pada abad ke-19 ketika Charles Babbage menciptakan mesin analitik pada tahun 1837. Mesin analitik merupakan perangkat mekanik yang dapat digunakan untuk memproses data matematika. Namun, mesin ini tidak pernah berhasil dibuat dalam bentuk yang dapat digunakan secara praktis.</p>
+        <p>Pada tahun 1930-an, sebuah perangkat bernama komputer tabung vakum dikembangkan oleh seorang insinyur Amerika Serikat bernama John Atanasoff. Komputer tabung vakum menggunakan tabung vakum untuk menghitung data dan digunakan untuk memecahkan persamaan matematika.</p>
+        <p>Pada tahun 1940-an, IBM mengembangkan komputer Mark I, yang digunakan untuk membantu Angkatan Laut Amerika Serikat dalam perang dunia ke-2. Komputer Mark I merupakan komputer elektronik pertama yang dapat digunakan secara praktis.</p>
+        <p>Pada tahun 1950-an, komputer transistor ditemukan, menggantikan tabung vakum yang lebih besar dan lebih lambat. Komputer transistor lebih kecil dan lebih cepat, membuatnya lebih mudah dan lebih murah untuk diproduksi.</p>
+        <p>Pada tahun 1960-an, komputer chip terintegrasi ditemukan, memungkinkan pembuatan komputer yang lebih kecil dan lebih cepat. Komputer chip terintegrasi juga memungkinkan pembuatan komputer personal yang murah dan mudah digunakan.</p>
+        <p>Pada tahun 1970-an dan 1980-an, komputer personal menjadi populer, dengan komputer seperti Apple II, Commodore 64, dan IBM PC menjadi sangat populer. Pada tahun 1990-an, komputer dengan koneksi internet menjadi populer, memungkinkan orang untuk terhubung dengan orang lain di seluruh dunia.</p>
+        <p>Pada tahun 2000-an, teknologi komputer terus berkembang dengan kecepatan dan kapasitas yang semakin tinggi. Komputer modern dapat melakukan pekerjaan yang lebih cepat dan lebih kompleks daripada sebelumnya, dan teknologi seperti kecerdasan buatan dan blockchain terus mengubah cara kita menggunakan komputer.</p>
+    </string>
+    <string name="komponen">
+        <p>Komputer modern terdiri dari beberapa komponen utama yang saling berinteraksi untuk dapat melakukan tugas-tugas yang diberikan kepadanya. Dalam materi ini, akan dijelaskan mengenai beberapa komponen utama pada komputer beserta fungsi dan karakteristiknya.</p>
+        <p>Central Processing Unit (CPU) Central Processing Unit (CPU) atau yang biasa disebut sebagai "otak" dari komputer adalah komponen utama pada komputer yang bertanggung jawab untuk melakukan pengolahan data dan instruksi-instruksi yang diberikan kepadanya. CPU terdiri dari beberapa bagian, seperti control unit, arithmetic logic unit, dan cache memory.</p>
+        <p>Memori Memori adalah komponen pada komputer yang digunakan untuk menyimpan data dan instruksi-instruksi sementara. Ada beberapa jenis memori pada komputer, seperti RAM (Random Access Memory) dan ROM (Read-Only Memory). RAM digunakan untuk menyimpan data dan instruksi sementara saat komputer sedang berjalan, sedangkan ROM digunakan untuk menyimpan data dan instruksi yang tidak dapat diubah oleh pengguna.</p>
+        <p>Hard Disk Drive (HDD) atau Solid State Drive (SSD) Hard Disk Drive (HDD) atau Solid State Drive (SSD) adalah komponen pada komputer yang digunakan untuk menyimpan data dan program-program secara permanen. HDD menggunakan piringan magnetik untuk menyimpan data, sedangkan SSD menggunakan teknologi flash memory. SSD memiliki kecepatan baca dan tulis data yang lebih cepat dibandingkan HDD.</p>
+        <p>Motherboard Motherboard adalah komponen pada komputer yang menghubungkan semua komponen lainnya. Motherboard terdiri dari berbagai slot dan konektor yang digunakan untuk memasang komponen-komponen seperti CPU, memori, dan kartu grafis.</p>
+        <p>Power Supply Unit (PSU) Power Supply Unit (PSU) adalah komponen pada komputer yang menyediakan listrik untuk semua komponen lainnya. PSU mengubah arus listrik AC menjadi DC yang digunakan oleh komponen-komponen pada komputer.</p>
+        <p>Kartu Grafis Kartu Grafis adalah komponen pada komputer yang bertanggung jawab untuk menghasilkan tampilan grafis pada layar monitor. Kartu grafis memiliki prosesor grafis sendiri dan memori yang digunakan untuk memproses dan menyimpan data grafis.</p>
+        <p>Input/Output Devices Input/Output Devices adalah komponen pada komputer yang digunakan untuk menginputkan dan menampilkan data. Contohnya adalah keyboard, mouse, monitor, dan speaker.</p>
+        <p>Demikianlah beberapa komponen utama pada komputer beserta fungsi dan karakteristiknya. Setiap komponen pada komputer memiliki peran penting dalam menjalankan tugas-tugas yang diberikan kepadanya.</p>
+    </string>
+    <string name="jenis">
+        <p>Komputer Analog Komputer analog adalah jenis komputer yang menggunakan sinyal analog untuk memproses informasi. Komputer analog digunakan untuk aplikasi seperti pengendalian mesin dan pemrosesan sinyal audio.</p>
+        <p>Komputer Digital Komputer digital adalah jenis komputer yang menggunakan sinyal digital untuk memproses informasi. Komputer digital terdiri dari komponen seperti CPU, memori, dan input/output. Komputer digital digunakan untuk berbagai aplikasi seperti komputasi umum, pengolahan data, dan pemrograman.</p>
+        <p>Komputer Hybrid Komputer hybrid adalah jenis komputer yang menggabungkan teknologi analog dan digital. Komputer hybrid digunakan untuk aplikasi seperti pengendalian mesin, pemrosesan sinyal, dan pemodelan sistem dinamis.</p>
+        <p>Komputer Quantum Komputer quantum adalah jenis komputer yang menggunakan prinsip fisika kuantum untuk memproses informasi. Komputer quantum digunakan untuk aplikasi seperti kriptografi, simulasi molekuler, dan optimisasi.</p>
+        <p>Komputer Biologis Komputer biologis adalah jenis komputer yang menggunakan prinsip biologi untuk memproses informasi. Komputer biologis digunakan untuk aplikasi seperti pemodelan sistem biologis dan pengembangan obat.</p>
+        <p>Komputer Sinar Cahaya Komputer sinar cahaya adalah jenis komputer yang menggunakan sinar cahaya untuk memproses informasi. Komputer sinar cahaya digunakan untuk aplikasi seperti pemrosesan citra dan komunikasi optik.</p>
+    </string>
+</resources>
